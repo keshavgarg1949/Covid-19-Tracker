@@ -1,0 +1,4 @@
+git status ------------ to check if any file is updated 
+git add .  ------------ to add all files for commit
+git commit -m "message"  ---------------- commit files with message
+git push origin (branch name)  ----------- to upload files to commit
